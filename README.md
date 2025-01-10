@@ -2,23 +2,6 @@
 
 **MoneyCounter** is a web application designed to help users efficiently manage and track their financial transactions, including both income and expenses. This frontend repository is built using **React** and **TypeScript**, providing a seamless and interactive user experience to track finances in real time.
 
-## Features
-
-- **User Registration & Login**: Secure sign-up and login to manage personal finance data.
-- **Add/Edit/Delete Transactions**: Users can add, edit, and delete income or expense transactions.
-- **Transaction History**: View a detailed history of all financial transactions.
-- **Current Balance Display**: Instantly see the current balance, reflecting income and expenses.
-- **Transaction Search & Filter**: Search for specific transactions or filter by category, date, or type.
-- **Export to CSV**: Easily export transaction history into a CSV file for offline use.
-
-## Tech Stack
-
-- **React**: A JavaScript library for building interactive user interfaces.
-- **TypeScript**: Enhances JavaScript with static types for better tooling and code quality.
-- **Redux**: Used for managing application state, ensuring smooth state flow.
-- **React Router**: For managing navigation and routing within the app.
-- **Axios**: For making HTTP requests to the backend.
-
 ## Setup & Installation
 
 ### Prerequisites
@@ -47,6 +30,24 @@
     ```
 
 5. Visit [http://localhost:3000](http://localhost:3000) in your browser to see the application in action.
+
+
+## Features
+
+- **User Registration & Login**: Secure sign-up and login to manage personal finance data.
+- **Add/Edit/Delete Transactions**: Users can add, edit, and delete income or expense transactions.
+- **Transaction History**: View a detailed history of all financial transactions.
+- **Current Balance Display**: Instantly see the current balance, reflecting income and expenses.
+- **Transaction Search & Filter**: Search for specific transactions or filter by category, date, or type.
+- **Export to CSV**: Easily export transaction history into a CSV file for offline use.
+
+## Tech Stack
+
+- **React**: A JavaScript library for building interactive user interfaces.
+- **TypeScript**: Enhances JavaScript with static types for better tooling and code quality.
+- **Redux**: Used for managing application state, ensuring smooth state flow.
+- **React Router**: For managing navigation and routing within the app.
+- **Axios**: For making HTTP requests to the backend.
 
 ## Usage
 
