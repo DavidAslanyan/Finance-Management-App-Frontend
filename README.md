@@ -7,7 +7,7 @@
 ### Prerequisites
 
 - **Node.js**: Ensure you have [Node.js](https://nodejs.org/) installed.
-- **npm**: npm comes bundled with Node.js.
+- **npm**: npm comes bundled with Node.js. 
 
 ### Steps to Get Started
 
