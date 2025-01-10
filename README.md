@@ -61,9 +61,10 @@
 ## Code Structure
 
 - `src/`: Contains all source code for the frontend application.
+  - `pages/`: Pages of the application    
   - `components/`: Reusable components like forms, buttons, transaction list, and balance display.
+  - `utilities/`: Utility functions for handling transactions, form validation, and CSV export.
   - `redux/`: Manages state for transactions, user authentication, and filters.
-  - `utils/`: Utility functions for handling transactions, form validation, and CSV export.
   - `App.tsx`: The main component responsible for rendering the app's layout and routing.
 
 ## Contribution
